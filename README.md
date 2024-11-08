@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**M4RK0Sdsn/M4RK0Sdsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador de Aplicaciones Multiplataforma en formación
 
-Here are some ideas to get you started:
+Actualmente estoy cursando el segundo año en desarrollo de aplicaciones multiplataforma, con un enfoque en la creación de soluciones eficientes y escalables. Mi experiencia incluye el desarrollo de aplicaciones web y backend, utilizando lenguajes y tecnologías como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**
+- **HTML, CSS y JavaScript**
+- **SQL** para bases de datos relacionales
+- **PHP** para desarrollo backend
+
+Me apasiona seguir aprendiendo sobre nuevas tecnologías y prácticas de desarrollo, así como colaborar en proyectos donde pueda aplicar mis conocimientos y contribuir con soluciones creativas. 🚀
+
+---
+
+📫 **Contacto**  
+Si quieres conectar o colaborar, ¡no dudes en contactarme!
+
+
