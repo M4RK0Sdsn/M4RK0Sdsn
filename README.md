@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg"  />
+  <img height="150" src="[https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg](https://bs-uploads.toptal.io/blackfish-uploads/components/seo/4633504/og_image/optimized/0508-ErikRasmussenCover-Waldek_1200X600-e9f75b8896d263476043bb7f808be716.png)"  />
 </div>
 
 
