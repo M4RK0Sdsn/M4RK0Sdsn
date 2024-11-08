@@ -1,3 +1,19 @@
+<div align="center">
+  <img height="150" src="https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcosdelsaz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?hl=es#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 # 👋 ¡Hola! Soy Marcos Del Saz
 
 ### Desarrollador de Aplicaciones Multiplataforma en formación
